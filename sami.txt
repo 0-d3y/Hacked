@@ -1,0 +1,95 @@
+
+<html lang="ar"><head>
+  
+    
+    <title>HaCkeD By Mr Sami</title>
+    <meta property="og:image"content="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVT9CaFoWfODcL3Df0rukqB7Rn8Z0Bhfjy4spcvNZhE66TUqKLDOP5aF-mHtAkIltoKYhTodbiP3eas4Ea3Mc9LkVO1L42P-v585_SFMnczaBw-JUUSc6TkHVCer1tvqdVHcQNG2uvSgMqhBZAQOFqFUBDw4_DniLRB2YuxsJwhisETxDk4j1Fz6lQng/w640-h394/photo_2022-09-10_22-34-13.jpg">
+    <link rel="icon" type="image/png" href="https://files.catbox.moe/dcz2eo.png">
+    <meta name="keywords" content="Hacked By T.Y.G Team">
+    <meta name="description" content="HaCkeD By Mr Sami">
+    <link href="http://fonts.googleapis.com/css?family=Iceland" rel="stylesheet" type="text/css">
+  
+  </head>
+  <style type="text/css">body, a:hover {cursor: url(https://cur.cursors-4u.net/cursors/cur-7/cur686.cur), progress !important;}</style>
+  </style>
+  <style>
+    body{
+        background-color: black;
+        align-items: center;
+        text-align: center;
+    }
+    #background-video {
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    color: rgba(0, 0, 0, 0.486);
+    }
+    img_ye {
+    animation: shake 4.0s;
+    animation-iteration-count: infinite;
+    }  
+
+    center_ye {
+    animation: shake 4.0s;
+    animation-iteration-count: infinite;
+    }
+
+    @keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+    }
+    @media (max-width: 750px) {
+    #background-video { display: none; }
+    body {
+      background: black;
+      background-size: cover;
+      padding: auto;
+
+    }
+}
+  </style>
+  <body onclick="yemeni_hackers()">
+  <img  src="https://wallpaperaccess.com/full/33211.jpg" width="800" height="450" style="border-right: 2px white solid;border-left: 2px rgb(255, 0, 0) solid;border-top: 2px rgb(255, 0, 0) solid;border-bottom: 2px white solid;object-fit: scale-down; max-width: 100%; border-radius: 0%;text-shadow: 0px 1px 30px white;" onclick="location.href = 'https://t.me/TYG_YE';"><br>
+  <br>
+  <img src="https://files.catbox.moe/g120wf.gif" style="margin:0 0 -0px 0;width:75px;height:75px;">
+  <font style="text-shadow: rgb(255, 0, 0) 0px 1px 5px; font-size: 80px" face="Iceland" color="#FFFFFF">HaCkeD By Mr SaMi</font>
+  <img src="https://files.catbox.moe/o4dzwv.gif"style="margin:0 0 -0px 0;width:75px;height:75px;"><br>
+  
+          
+
+  <center>
+    <!-- <video id="background-video" autoplay loop muted poster=""> -->
+    <!-- <source src="https://files.catbox.moe/e3861k.mp4" type="video/mp4">-->
+    <!-- </video> -->
+  <p style="color: rgb(204, 0, 0);" ><font style="font-size: 50px;" face="Iceland">
+  <font color="#FFFFFF"></font><span style="color: red;"></span><font color="#FFFFFF" style="font-size: 50px;">.::</font >Yemeni Hackers Wes Here </font><font color="#FFFFFF" style="font-size: 40px;">::.</font></font></p>
+  <p ><font style="font-size: 30px; " face="Iceland" color="#FFFFFF">
+  <img src="https://files.catbox.moe/g120wf.gif" style="margin:0 0 -0px 0;width:45px;height:45px;"><font style="font-size: 50px;" face="Iceland" color="#FFFFFF" onclick="yemeni_instgram()"> IN : 24p8_ </font><img src="https://files.catbox.moe/o4dzwv.gif"style="margin:0 0 -0px 0;width:45px;height:45px;"><br>
+  </center>
+
+  <script type="text/javascript">
+    var yemeni_hackers = function() {
+    window.open ("https://t.me/TYG_YE", "Window","status=1,toolbar=1");
+    window.open ("hhttps://t.me/YM_RX", "Window2","status=1,toolbar=1");
+    }
+    var yemeni_instgram = function() {
+    window.open ("https://instagram.com/_24p8", "Window","status=1,toolbar=1");
+    }
+</script>
+  </body>
+  </html>
